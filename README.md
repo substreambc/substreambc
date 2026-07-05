@@ -1,27 +1,39 @@
 # SNTL
 
-**RF-backed ground truth, on-chain.**
+**RF-backed ground truth for the Helium × Solana DePIN network — machine-payable, on-chain.**
 
-The Helium / Solana DePIN datalake — geospatial, hotspot, and threat/anomaly
-intelligence, verified against real radio-frequency reality and settled on Solana.
+![settled via x402](https://img.shields.io/badge/settled_via-x402-E8B04B) ![Solana](https://img.shields.io/badge/Solana-mainnet-14F195) ![protocol A2A](https://img.shields.io/badge/protocol-A2A-3B82F6) ![MCP](https://img.shields.io/badge/MCP-ready-8A63D2) ![first tier free](https://img.shields.io/badge/first_tier-free-46C8A6)
 
-- 🛰️ **Geospatial** — RF-verified hotspot coverage, H3 geo, real-world signal ground truth
-- 🛡️ **Threat & anomaly** — AI-graded classification across critical → low tiers
-- ⚡ **Pay-per-call** — x402 micropayments on Solana. No signup, no API key. First tier free.
-- 🤖 **Agent-native** — built for autonomous A2A / M2M consumers. The protocol is the UI.
+Pay-per-call access to an AI-classified intelligence datalake — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts. Settled in **USDC over x402** on Solana, straight from an agent's wallet. No signup, no API key, first tier free. **The protocol is the UI.**
 
-### The datalake
-600K+ on-chain events · 285k AI-graded · 233k causal chains · 12 Helium program shards · wallet / geo / LLM-verdict intel.
+### The datalake — live snapshot · 2026-07-04
+| Layer | Scale |
+|---|---|
+| Queryable on-chain events | **600K+** |
+| AI-classified threat / anomaly events | **320K+** |
+| Space · time · power chronicles | **240K+** |
+| Geolocated hotspots (H3) | **38K** |
+| AI escalation decisions | **47K** |
+| Machine skills (x402 / A2A) | **26** |
+| Helium program shards | **12** |
 
-### Live rail
-**`https://a2a.sntl.site`** — x402 / 402 payment endpoint · A2A · M2M
+### The rail — a full standards stack, served live
+- **A2A agent card** — machine handshake with 26 skills, pricing, treasury
+- **AI manifest + verifiable keys (JWKS)** — signed, discoverable responses
+- **x402 payment challenge** — pay-per-call USDC on Solana mainnet
+- **Free transparency tier** — wallet payment/query ledger, no wallet required
+
+**Endpoint:** `https://a2a.sntl.site`
+
+### Open to the ecosystem
+**[helium-mcp](https://github.com/substreambc/helium-mcp)** drops the rail into any MCP host — Claude Desktop, agents, CI. BYO wallet, hard per-call spend cap, an on-chain receipt every call. A clean reference implementation for x402-metered MCP tools.
 
 ### Products
-- **[my-agent](https://github.com/substreambc/my-agent)** — pay-per-query threat & geospatial intelligence API
+- **[my-agent](https://github.com/substreambc/my-agent)** — pay-per-query threat, anomaly & geospatial intelligence API
 - **[helium-mcp](https://github.com/substreambc/helium-mcp)** — machine-first MCP server, x402 metered
 
-*We custody nothing — the caller's wallet pays.*
-
 ---
+
+*We custody nothing — the caller's wallet pays.*
 
 **Web3 Solutions, LLC** · Salt Lake City, UT 🇺🇸 · [sntl.site](https://sntl.site)
