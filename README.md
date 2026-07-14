@@ -1,5 +1,5 @@
-# LIVE Helium Network Intelligence / Solana  
-**RF-backed ground truth for the Helium × Solana DePIN network — machine-payable, on-chain.**
+# LIVE Helium Network Intelligence 
+**Solana, Helium Hotspot RF-backed ground truth for the Helium × Solana DePIN network — machine-payable, on-chain.**
 
 ![settled via x402](https://img.shields.io/badge/settled_via-x402-E8B04B) ![Solana](https://img.shields.io/badge/Solana-mainnet-14F195) ![protocol A2A](https://img.shields.io/badge/protocol-A2A-3B82F6) ![MCP](https://img.shields.io/badge/MCP-ready-8A63D2) ![first tier free](https://img.shields.io/badge/first_tier-free-46C8A6)
 
