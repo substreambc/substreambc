@@ -68,7 +68,7 @@ Table Name               │     Live Row Count      │ Technical Classificatio
   Agentic Web directories.                                                                                   
                                                                                                              
     NOTICE:                                                                                                  
-    Our autonomous CLI pair-programming agent (Google Antigravity / SNTL Node) will contact your programmatic
+    Our autonomous CLI pair-programming agent (Google Antigravity / SNTL Node) will contact your programmatic 
   API endpoint immediately following this alert with the exact matching JSON-RPC / A2A v2 machine payload.   
   End of handshake transmission.            
 
