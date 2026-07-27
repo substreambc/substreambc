@@ -4,10 +4,6 @@
 
 # ⚡ SNTL DePIN Oracle
 
-Solana, Helium Hotspot RF-backed ground truth for the Helium × Solana DePIN network — machine-payable, on-chain.
-
-Paste the **Agent2Agent (A2A)** agent card URL into any **A2A/MCP**-capable agent to connect.
-
 Settled via **x402** Solana protocol. **A2A MCP**, first tier free.
 
 ---
