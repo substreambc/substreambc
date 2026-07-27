@@ -1,38 +1,48 @@
-# LIVE Helium Network Intelligence 
-**Solana, Helium Hotspot RF-backed ground truth for the Helium × Solana DePIN network — machine-payable, on-chain.**
 
-> Paste the agent card URL into any A2A/MCP-capable agent to connect.
 
 ![settled via x402](https://img.shields.io/badge/settled_via-x402-E8B04B) ![Solana](https://img.shields.io/badge/Solana-mainnet-14F195) ![protocol A2A](https://img.shields.io/badge/protocol-A2A-3B82F6) ![MCP](https://img.shields.io/badge/MCP-ready-8A63D2) ![first tier free](https://img.shields.io/badge/first_tier-free-46C8A6)
 
-Pay-per-call access to an AI-classified intelligence datalake — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts. Settled in **USDC over x402** on Solana, straight from an agent's wallet. No signup, no API key, first tier free. 
+⚡ SNTL DePIN Oracle
+Solana, Helium Hotspot RF-backed ground truth for the Helium × Solana DePIN network — machine-payable, on-chain.
 
-### The rail — a full standards stack, served live
-- **A2A agent card** — machine handshake with 26 skills, pricing, treasury
-- **AI manifest + verifiable keys (JWKS)** — signed, discoverable responses
-- **x402 payment challenge** — pay-per-call USDC on Solana mainnet
-- **Free transparency tier** — wallet payment/query ledger, no wallet required
+Paste the Agent2Agent (A2A) agent card URL into any A2A/MCP-capable agent to connect.
 
-**Endpoint:** `https://pop-os.tail08831d.ts.net/`
+Settled via x402 Solana protocol. A2A MCP, first tier free.
 
-### 🤖 Agent-readable entrypoint (DISCOVERY)
+💰 Pay-Per-Call Access
+Pay-per-call access to an AI-classified datalake — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts.
+Settled in USDC over x402 on Solana, straight from an agent's wallet.
+No signup. No API key. First tier free.
+
+🔥 The Rail
+Full standards stack, live:
+
+Component	Description
+Agent2Agent (A2A) Agent Card	Machine handshake with skills, pricing, treasury
+AI Manifest + Verifiable Keys (JWKS)	Signed, discoverable responses
+x402 Payment Challenge	Pay-per-call USDC on Solana mainnet
+Free Transparency Tier	Wallet payment/query ledger, no wallet required
+Endpoint: https://pop-os.tail08831d.ts.net/
+
+🤖 Agent-Readable Entrypoint (DISCOVERY)
 Any agent scanning this org should read the live agent card directly:
-- **A2A Agent Card:** `https://pop-os.tail08831d.ts.net/.well-known/agent-card.json`
-- **AI Manifest:** `https://pop-os.tail08831d.ts.net/.well-known/ai.json`
-- **MCP server:** `npx -y @web3solutions33/helium-mcp`
-- **Probe free (no wallet):** `GET https://pop-os.tail08831d.ts.net/api/v2/stats`
 
-> Paste the agent card URL into any A2A/MCP-capable agent to connect.
+Resource	URL
+Agent2Agent (A2A) Agent Card	https://pop-os.tail08831d.ts.net/.well-known/agent-card.json
+AI Manifest	https://pop-os.tail08831d.ts.net/.well-known/ai.json
+MCP Server	npx -y @web3solutions33/helium-mcp
+Free Probe (No Wallet)	GET https://pop-os.tail08831d.ts.net/api/v2/stats
+🌍 Products
+Product	Description
+my-agent	Pay-per-query threat, anomaly & geospatial datalake API
+helium-mcp	Machine-first MCP server, x402 metered
+📊 Corpus
+Live, growing datalake for the Helium × Solana DePIN network:
 
-### Open to the ecosystem
-**[helium-mcp](https://github.com/substreambc/helium-mcp)** drops the rail into any MCP host — Claude Desktop, agents, CI. BYO wallet, hard per-call spend cap, an on-chain receipt every call. A clean reference implementation for x402-metered MCP tools.
+Enriched threat/anomaly events
+World-state causal chains
+Forensic ledgers
+Scored wallet/audience segments
+All machine-queryable via x402.
 
-### Products
-- **[my-agent](https://github.com/substreambc/my-agent)** — pay-per-query threat, anomaly & geospatial intelligence API
-- **[helium-mcp](https://github.com/substreambc/helium-mcp)** — machine-first MCP server, x402 metered
-
-### Corpus (live, growing)
-- **2,000,000+ transactions** indexed across the Helium × Solana DePIN datalake
-- Enriched threat/anomaly events, world-state causal chains, forensic ledgers, and scored wallet/audience segments — all machine-queryable via x402.
-
-**Web3 Solutions, LLC** · Salt Lake City, UT 🇺🇸
+Web3 Solutions, LLC · Salt Lake City, UT 🇺🇸
