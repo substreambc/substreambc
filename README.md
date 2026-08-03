@@ -60,5 +60,15 @@ Live, growing datalake for the Helium × Solana DePIN network:
 
 All machine-queryable via **x402**.
 
+
+### 402 paywall	✅ Solid	
+Proper x402 shape: accepts, scheme exact, price range $0.01–$1.00, Solana USDC, treasury set
+###Agent card v4.0.0	✅ Rich	
+Skills, inventory, endpoints, pricing all declared
+### ai.json manifest	✅ Good	
+31 URN capabilities, bearer/JWKS auth
+### Free tier	✅ Works	
+/api/v2/stats live — 9 tiers, 820k+ enriched events
+
 ---
 Web3 Solutions, LLC · Salt Lake City, UT 🇺🇸
