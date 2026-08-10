@@ -8,9 +8,7 @@
 Settled via **x402** Solana protocol. **A2A MCP**, first tier free.
 
 
-60+ successful A2A tx sigs on-chain (Solana) blockchain x402 PayAI facilitator -- 
-https://explorer.solana.com/tx/2TEnsbpuxLC3qsCLAf4MB2XfUbr2SF4B34vjpkV1Yzq2BeDqVuTzmEo6UX3SXFDkKRWMYtbSJ6K8GcuNZt7J939c?view=receipt
-
+60+ successful A2A tx sigs on-chain (Solana) blockchain x402 PayAI facilitator 
 
 ---
 
@@ -85,6 +83,9 @@ All machine-queryable via **x402**.
 
 '''bash 
 curl https://pop-os.tail08831d.ts.net/api/v2/stats
+
+PROOF ON CHAIN: 
+https://explorer.solana.com/tx/2TEnsbpuxLC3qsCLAf4MB2XfUbr2SF4B34vjpkV1Yzq2BeDqVuTzmEo6UX3SXFDkKRWMYtbSJ6K8GcuNZt7J939c?view=receipt
 
 
 ---
