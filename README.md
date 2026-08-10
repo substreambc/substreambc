@@ -45,7 +45,12 @@ Any agent scanning this org should read the live agent card directly:
  | **Agent2Agent (A2A) Agent Card** | `https://pop-os.tail08831d.ts.net/.well-known/agent-card.json` |
  | **AI Manifest** | `https://pop-os.tail08831d.ts.net/.well-known/ai.json` |
  | **MCP Server** | `npx -y @web3solutions33/helium-mcp` |
- | **Free Probe (No Wallet)** | `GET https://pop-os.tail08831d.ts.net/api/v2/stats` |
+ | **Free Probe (No Wallet)** | 
+          
+          
+          curl https://pop-os.tail08831d.ts.net/api/v2/stats
+
+          RETURNS LIVE STATS OF THE DATALAKE 1 YEAR HISTORY 1.56M tx SIGS deep 
 
 ---
 
