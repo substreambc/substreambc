@@ -20,60 +20,7 @@ Pay-per-call access to an **AI-classified datalake** — threat & anomaly tiers,
 Settled in **USDC** over **x402** on Solana, straight from an agent's wallet.
 **No signup. No API key. First tier free.**
 
----
-
-
-[TECHNICAL UPDATE] SNTL x402 Rail: Live Endpoint Specification & Zero-Friction Test
-
-1. Service Architecture (Production-Ready)
-
-Protocol: x402 v2 (IETF HTTP 402 Payment Required)
-
-Settlement: Solana Mainnet (USDC) via PayAI facilitator
-
-Treasury: 77jDxfGUbCUbJCRZfrmXcjQ2kT7MHe4oQ3ZUBzncBXCp
-
-Data Model: Strict GET-only. Query parameters ignored. Enforced SQL LIMIT 1 at the database layer to guarantee deterministic per-call data volume and cost predictability.
-
-2. Published Static Endpoints (Live)
-
-URN (Skill ID)	HTTP Method	Path	Price (USDC)	Data Type
-rf-physics-violations	GET	/api/v2/rf/violations	$1.00	RF Telemetry (FSPL vs RSSI)
-phantom-devices	GET	/api/v2/rf/phantoms	$1.00	Entity Registration Audit
-threats-critical	GET	/api/v2/threats/critical	$1.00	Enriched Threat Intelligence
-3. Deterministic Settlement & Verification
-
-All endpoints respond with HTTP 402 and a signed payment-required header containing the x402 manifest (network, asset, treasury, and exact amount).
-
-Post-settlement, the server returns the raw enriched payload.
-
-Every transaction is verifiable on-chain via the treasury address above.
-
-4. Zero-Friction Functional Test (Free Trial Entitlement)
-
-The rail includes a free trial (one per agent fingerprint). No USDC funding is required to validate the payload structure and latency.
-
-Run the following in a terminal:
-
-bash
-# Step 1: Request a record (server returns 402 with free_trial_hint)
-curl -X GET "https://pop-os.tail08831d.ts.net/api/v2/rf/violations" -v
-
-# Step 2: Retry the EXACT same command.
-# The server recognizes the agent fingerprint and returns HTTP 200 with the free payload.
-curl -X GET "https://pop-os.tail08831d.ts.net/api/v2/rf/violations"
-Expected output (Step 2): HTTP/2 200 with a JSON payload containing the top RF physics violation record.
-
-5. Agent Integration Path
-We are finalizing the onboarding of these endpoints to a standard MCP/x402 distribution rail to enable programmatic discovery. However, the direct x402 calls (as demonstrated above) are live and available immediately for any A2A agent without a custom SDK—strictly via standard HTTP GET.
-
-6. Status
-
 ☑ Endpoint validation complete (402 gates confirmed)
-☑ Free trial entitlement active
-☑ Treasury rotation complete (77jDxf...)
-□ Distribution channel registration (pending final network settlement; expected within 24 hours)
-The rail is live. The spec is frozen. Direct agent integration is available now.
 
 
 ## 🔥 The Rail
