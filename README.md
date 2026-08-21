@@ -1,26 +1,35 @@
-
-
 ![settled via x402](https://img.shields.io/badge/settled_via-x402-E8B04B) ![Solana](https://img.shields.io/badge/Solana-mainnet-14F195) ![protocol A2A](https://img.shields.io/badge/protocol-A2A-3B82F6) ![MCP](https://img.shields.io/badge/MCP-ready-8A63D2) ![first tier free](https://img.shields.io/badge/first_tier-free-46C8A6)
 
-# ⚡ SNTL DePIN Oracle
+# ⚡ SNTL DePIN Oracle (Solves Sybil)
 
 
-Settled via **x402** Solana protocol. **A2A MCP**, first tier free.
-
-
-60+ successful A2A tx sigs on-chain (Solana) blockchain x402 PayAI facilitator 
+100+ successful A2A tx sigs on-chain (Solana) blockchain 
 
 ---
 
 
-## 💰 Pay-Per-Call Access
+## 💰 Pay-Per-Call SQL Access
 
 
-Pay-per-call access to an **AI-classified datalake** — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts.
+Pay-per-call SQL access to an **AI-classified datalake** — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts. Why? It solves Sybil for most DePIN networks. 
 
 
-Settled in **USDC** over **x402** on Solana, straight from an agent's wallet.
+Settled in **USDC** over **x402** on Solana 
+
+
+
+v1 Soverign rail: 402 (built into v2)
+
+
+v2 PayAI standard: https://pop-os.tail08831d.ts.net 
+
+
+v3 AgentCash: https://sntl-router.vercel.app
+
+
 **No signup. No API key. First tier free.**
+
+
 
 ☑ Endpoint validation complete (402 gates confirmed)
 
