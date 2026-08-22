@@ -127,4 +127,4 @@ SNTL-SRv1|Phys:FSPL+env|Econ:n*x402^2|Crypto:tempo+sol|Proof:https://f.stableupl
 
 
 ---
-Web3 Solutions, LLC · Salt Lake City, UT 🇺🇸
+SNTL DePin Oracle · Salt Lake City, UT 🇺🇸
