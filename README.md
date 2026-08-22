@@ -14,7 +14,7 @@
 Settled in **USDC** over **x402** on Solana 
 
 
-Via AgentCash: https://sntl-router.vercel.app
+https://sntl-router.vercel.app
 
 
 **No signup. No API key. First tier free.**
@@ -27,31 +27,17 @@ Full standards stack, live:
    Component | Description |
  |-----------|-------------|
  | **Agent2Agent (A2A) Agent Card** | Machine handshake with skills, pricing, treasury |
- | **AI Manifest + Verifiable Keys (JWKS)** | Signed, discoverable responses |
  | **x402 Payment Challenge** | Pay-per-call **USDC** on Solana mainnet |
  | **Free Transparency Tier** | Wallet payment/query ledger, no wallet required |
 
-**Endpoint**: `https://pop-os.tail08831d.ts.net/`
 
+**Endpoint**: https://sntl-router.vercel.app
 ---
 
-## 🤖 Agent-Readable Entrypoint (DISCOVERY)
-
-Any agent scanning this org should read the live agent card directly:
- | Resource | URL |
- |----------|-----|
- | **Agent2Agent (A2A) Agent Card** | `https://pop-os.tail08831d.ts.net/.well-known/agent-card.json` |
- | **AI Manifest** | `https://pop-os.tail08831d.ts.net/.well-known/ai.json` |
- | **MCP Server** | `npx -y @substreambc/sntl-mcp` |
- | **Free Probe (No Wallet)** | 
-          
-
----
 
 ## 🌍 Products
  | Product | Description |
  |---------|-------------|
- | **my-agent** | Pay-per-query threat, anomaly & geospatial datalake API |
  | **sntl-mcp** | Machine-first **MCP** server, **x402** metered |
 
 ---
