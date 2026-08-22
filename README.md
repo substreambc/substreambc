@@ -1,27 +1,20 @@
 ![settled via x402](https://img.shields.io/badge/settled_via-x402-E8B04B) ![Solana](https://img.shields.io/badge/Solana-mainnet-14F195) ![protocol A2A](https://img.shields.io/badge/protocol-A2A-3B82F6) ![MCP](https://img.shields.io/badge/MCP-ready-8A63D2) ![first tier free](https://img.shields.io/badge/first_tier-free-46C8A6)
 
-# ⚡ SNTL DePIN Oracle (Solves Sybil)
+# ⚡ SNTL DePIN Oracle (Solves sybil)
 
 ---
 
 
-## 💰 Pay-Per-Call SQL Access
+## 💰 Pay-Per-Call SQL queries
 
 
-**AI-classified datalake** — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts. Why? It solves Sybil for most DePIN networks. 
+**AI-classified datalake** — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts. Solves sybil for most DePIN networks. 
 
 
 Settled in **USDC** over **x402** on Solana 
 
 
-
-v1 Soverign rail: 402 (built into v2)
-
-
-v2 PayAI standard: https://pop-os.tail08831d.ts.net 
-
-
-v3 AgentCash: https://sntl-router.vercel.app
+Via AgentCash: https://sntl-router.vercel.app
 
 
 **No signup. No API key. First tier free.**
@@ -49,7 +42,7 @@ Any agent scanning this org should read the live agent card directly:
  |----------|-----|
  | **Agent2Agent (A2A) Agent Card** | `https://pop-os.tail08831d.ts.net/.well-known/agent-card.json` |
  | **AI Manifest** | `https://pop-os.tail08831d.ts.net/.well-known/ai.json` |
- | **MCP Server** | `npx -y @web3solutions33/helium-mcp` |
+ | **MCP Server** | `npx -y @substreambc/sntl-mcp` |
  | **Free Probe (No Wallet)** | 
           
 
@@ -59,7 +52,7 @@ Any agent scanning this org should read the live agent card directly:
  | Product | Description |
  |---------|-------------|
  | **my-agent** | Pay-per-query threat, anomaly & geospatial datalake API |
- | **helium-mcp** | Machine-first **MCP** server, **x402** metered |
+ | **sntl-mcp** | Machine-first **MCP** server, **x402** metered |
 
 ---
 
@@ -76,8 +69,10 @@ All machine-queryable via **x402**.
 
 ### Free tier	✅
 /api/v2/stats live — 9 tiers, 820k+ enriched events
-------------------------------------------------------------------
+
+
 # Triple-Invariant Sybil Resistance Constraint — Verification Record
+
 
 **Document ID:** SNTL-SRv1  
 **Date:** 2026-08-22  
