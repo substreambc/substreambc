@@ -2,16 +2,13 @@
 
 # ⚡ SNTL DePIN Oracle (Solves Sybil)
 
-
-100+ successful A2A tx sigs on-chain (Solana) blockchain 
-
 ---
 
 
 ## 💰 Pay-Per-Call SQL Access
 
 
-Pay-per-call SQL access to an **AI-classified datalake** — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts. Why? It solves Sybil for most DePIN networks. 
+**AI-classified datalake** — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts. Why? It solves Sybil for most DePIN networks. 
 
 
 Settled in **USDC** over **x402** on Solana 
@@ -29,9 +26,6 @@ v3 AgentCash: https://sntl-router.vercel.app
 
 **No signup. No API key. First tier free.**
 
-
-
-☑ Endpoint validation complete (402 gates confirmed)
 
 
 ## 🔥 The Rail
@@ -58,10 +52,6 @@ Any agent scanning this org should read the live agent card directly:
  | **MCP Server** | `npx -y @web3solutions33/helium-mcp` |
  | **Free Probe (No Wallet)** | 
           
-          
-          curl https://pop-os.tail08831d.ts.net/api/v2/stats
-
-          RETURNS LIVE STATS OF THE DATALAKE 1 YEAR HISTORY 1.56M tx SIGS deep 
 
 ---
 
