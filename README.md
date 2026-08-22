@@ -5,7 +5,7 @@
 ---
 
 
-## 💰 Pay-Per-Call SQL queries
+## 💰 A2A Pay-Per-Call SQL queries
 
 
 **AI-classified datalake** — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts. Solves sybil for most DePIN networks. 
@@ -15,25 +15,6 @@ Settled in **USDC** over **x402** on Solana
 
 
 https://sntl-router.vercel.app
-
-
-**No signup. No API key. First tier free.**
-
-
-
-## 🔥 The Rail
-
-Full standards stack, live:
-   Component | Description |
- |-----------|-------------|
- | **Agent2Agent (A2A) Agent Card** | Machine handshake with skills, pricing, treasury |
- | **x402 Payment Challenge** | Pay-per-call **USDC** on Solana mainnet |
- | **Free Transparency Tier** | Wallet payment/query ledger, no wallet required |
-
-
-**Endpoint**: https://sntl-router.vercel.app
----
-
 
 ## 🌍 Products
  | Product | Description |
