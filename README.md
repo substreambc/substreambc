@@ -4,7 +4,7 @@
 
 ---
 
-## 💰 A2A Pay-Per-Call SQL queries
+## 💰 Pay-Per-Call SQL queries
 
 Settled in **USDC** over **x402** on Solana 
 
@@ -17,11 +17,9 @@ Live, growing datalake for DePIN networks
 - Forensic ledgers
 - Scored wallet/audience segments
 
-All machine-queryable via **x402**.
+Machine-queryable via **x402**.
 
 
-### Free tier	✅
-/api/v2/stats live — 9 tiers, 820k+ enriched events
 ### Paid tier 
 https://sntl-router.vercel.app
 
