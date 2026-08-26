@@ -26,20 +26,3 @@ https://sntl-router.vercel.app
 * **Protocols & Networking:** x402 Micropayment Protocol, MCP (Model Context Protocol), LoRaWAN, Tailscale Mesh
 * **Workspaces & Architecture:** Modular Yarn Monorepos, Bare-Metal Microservices, Edge Routing
 
----
-
-## 🌐 Agent Interoperability Quickstart
-
-Agents can query SNTL telemetry directly via x402 micropayment rails without API key provisioning.
-
-```bash
-# Query the SNTL threat intelligence oracle via x402 payment header
-curl -X POST [https://a2a.sntl.site/v2/threats/critical](https://a2a.sntl.site/v2/threats/critical) \
-  -H "X-PAY-402: <SOLANA_TRANSACTION_PAYLOAD>" \
-  -H "Content-Type: application/json" \
-  -d '{"region": "us-west", "limit": 50}'
-
-##----------------------------------------------------------
-##
-Contact: slcutpc@gmail.com
-SNTL DePin Oracle · Salt Lake City, UT 🇺🇸
