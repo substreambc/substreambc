@@ -8,16 +8,10 @@
 
 Settled in **USDC** over **x402** on Solana 
 
-## 🌍 Suggested 
-| MCP Pattern | Description |
- |---------|-------------|
- | **sntl-mcp** | Machine-first **MCP** server, **x402** metered 
-
----
-
 ## 📊 Corpus
 
-Live, growing datalake for the Helium × Solana DePIN network: 2M Records
+Live, growing datalake for DePIN networks
+
 - Enriched threat/anomaly events
 - World-state causal chains
 - Forensic ledgers
