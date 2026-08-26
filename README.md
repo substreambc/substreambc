@@ -2,9 +2,6 @@
 
 # ⚡ SNTL DePIN Oracle 
 
----
-
-## 💰 Pay-Per-Call SQL queries
 
 Settled in **USDC** over **x402** on Solana 
 
