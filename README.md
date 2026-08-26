@@ -8,21 +8,57 @@
 
 Settled in **USDC** over **x402** on Solana 
 
-## 📊 Corpus
-
-Live, growing datalake for DePIN networks
-
-- Enriched threat/anomaly events
-- World-state causal chains
-- Forensic ledgers
-- Scored wallet/audience segments
-
-Machine-queryable via **x402**.
-
 
 ### Paid tier 
 https://sntl-router.vercel.app
 
 
+# Substream BC (`@substreambc`)
 
+> ** DePIN Intelligence & Agent-Native Infrastructure on Solana**
+
+SNTL engineers high-throughput data pipelines, real-time threat intelligence engines, and pay-per-query payment rails designed for AI agents and decentralized physical infrastructure networks (DePIN).
+
+---
+
+## ⚡ Core Ecosystem Architecture
+
+Our public repositories power the **SNTL (Sentinel)** observability matrix—bridging raw on-chain events, LoRaWAN telemetry, and agentic micro-commerce into unified API interfaces.
+
+### 🛡️ 1. DePIN Observability & Intelligence (SNTL)
+* **Real-Time Telemetry:** Stream processing engines tracking network coverage, signal anomalies, and automated threat signals across the Helium and Solana ecosystems.
+* **Geospatial Analytics:** High-performance data pipelines structuring spatial RF metrics into spatial visualization interfaces and queryable datasets.
+
+### 💳 2. Agentic Payment Infrastructure (x402 Protocol)
+* **Metered Data Endpoints:** Trustless, pay-per-request data endpoints using x402 HTTP micropayment headers (`a2a.sntl.site`).
+* **`sntl-query` CLI:** Command-line tooling for executing structured SQL queries over the SNTL datalake via automated Solana payment rails.
+
+### 🤖 3. Model Context Protocol (MCP) Tooling
+* **`@web3solutions33/helium-mcp`:** Standardized Model Context Protocol servers enabling LLM agents to autonomously query real-time Helium hotspot telemetry, coverage maps, and on-chain state.
+
+---
+
+## 🛠 Tech Stack & Tooling
+
+* **Blockchain & Smart Contracts:** Solana, Anchor Framework, Metaplex Bubblegum, Rust
+* **Backend & Data Processing:** TypeScript, Node.js, Express, Redis Streams, PostgreSQL (NeonDB)
+* **Protocols & Networking:** x402 Micropayment Protocol, MCP (Model Context Protocol), LoRaWAN, Tailscale Mesh
+* **Workspaces & Architecture:** Modular Yarn Monorepos, Bare-Metal Microservices, Edge Routing
+
+---
+
+## 🌐 Agent Interoperability Quickstart
+
+Agents can query SNTL telemetry directly via x402 micropayment rails without API key provisioning.
+
+```bash
+# Query the SNTL threat intelligence oracle via x402 payment header
+curl -X POST [https://a2a.sntl.site/v2/threats/critical](https://a2a.sntl.site/v2/threats/critical) \
+  -H "X-PAY-402: <SOLANA_TRANSACTION_PAYLOAD>" \
+  -H "Content-Type: application/json" \
+  -d '{"region": "us-west", "limit": 50}'
+
+##----------------------------------------------------------
+##
+Contact: slcutpc@gmail.com
 SNTL DePin Oracle · Salt Lake City, UT 🇺🇸
