@@ -4,16 +4,9 @@
 
 ---
 
-
 ## 💰 A2A Pay-Per-Call SQL queries
 
-
-**AI-classified datalake** 
-
-
 Settled in **USDC** over **x402** on Solana 
-
-
 
 ## 🌍 Suggested 
 | MCP Pattern | Description |
