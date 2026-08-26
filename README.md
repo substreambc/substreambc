@@ -8,15 +8,15 @@
 ## 💰 A2A Pay-Per-Call SQL queries
 
 
-**AI-classified datalake** — threat & anomaly tiers, geospatial hotspot resolution, forensic event chronicles, and tiered LLM verdicts.
+**AI-classified datalake** 
 
 
 Settled in **USDC** over **x402** on Solana 
 
 
 
-## 🌍 Products
- | Gateway Product | Description |
+## 🌍 Suggested 
+| MCP Pattern | Description |
  |---------|-------------|
  | **sntl-mcp** | Machine-first **MCP** server, **x402** metered 
 
@@ -35,6 +35,8 @@ All machine-queryable via **x402**.
 
 ### Free tier	✅
 /api/v2/stats live — 9 tiers, 820k+ enriched events
+### Paid tier 
+https://sntl-router.vercel.app
 
 
 
