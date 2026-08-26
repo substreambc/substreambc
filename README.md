@@ -11,18 +11,10 @@ https://sntl-router.vercel.app
 
 
 ### 💳 Agentic Payment Infrastructure (x402 Protocol)
-* **Metered Data Endpoints:** Trustless, pay-per-request data endpoints using x402 HTTP micropayment headers (`a2a.sntl.site`).
-* **`sntl-query` CLI:** Command-line tooling for executing structured SQL queries over the SNTL datalake via automated Solana payment rails.
+* **Metered Data Endpoints:** Trustless, pay-per-request data endpoints using x402 HTTP micropayment headers.
+CLI:** Command-line tooling for executing structured SQL queries over the SNTL datalake via automated Solana payment rails.
 
 ### 🤖 3. Model Context Protocol (MCP) Tooling
-* **`@web3solutions33/helium-mcp`:** Standardized Model Context Protocol servers enabling LLM agents to autonomously query real-time Helium hotspot telemetry, coverage maps, and on-chain state.
+* **`@web3solutions33/helium-mcp`:** Standardized Model Context Protocol servers enabling LLM agents to autonomously query real-time  telemetry, coverage maps, and on-chain state.
 
----
-
-## 🛠 Tech Stack & Tooling
-
-* **Blockchain & Smart Contracts:** Solana, Anchor Framework, Metaplex Bubblegum, Rust
-* **Backend & Data Processing:** TypeScript, Node.js, Express, Redis Streams, PostgreSQL (NeonDB)
-* **Protocols & Networking:** x402 Micropayment Protocol, MCP (Model Context Protocol), LoRaWAN, Tailscale Mesh
-* **Workspaces & Architecture:** Modular Yarn Monorepos, Bare-Metal Microservices, Edge Routing
-
+--- 
