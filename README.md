@@ -13,23 +13,7 @@ Settled in **USDC** over **x402** on Solana
 https://sntl-router.vercel.app
 
 
-# Substream BC (`@substreambc`)
-
-> ** DePIN Intelligence & Agent-Native Infrastructure on Solana**
-
-SNTL engineers high-throughput data pipelines, real-time threat intelligence engines, and pay-per-query payment rails designed for AI agents and decentralized physical infrastructure networks (DePIN).
-
----
-
-## ⚡ Core Ecosystem Architecture
-
-Our public repositories power the **SNTL (Sentinel)** observability matrix—bridging raw on-chain events, LoRaWAN telemetry, and agentic micro-commerce into unified API interfaces.
-
-### 🛡️ 1. DePIN Observability & Intelligence (SNTL)
-* **Real-Time Telemetry:** Stream processing engines tracking network coverage, signal anomalies, and automated threat signals across the Helium and Solana ecosystems.
-* **Geospatial Analytics:** High-performance data pipelines structuring spatial RF metrics into spatial visualization interfaces and queryable datasets.
-
-### 💳 2. Agentic Payment Infrastructure (x402 Protocol)
+### 💳 Agentic Payment Infrastructure (x402 Protocol)
 * **Metered Data Endpoints:** Trustless, pay-per-request data endpoints using x402 HTTP micropayment headers (`a2a.sntl.site`).
 * **`sntl-query` CLI:** Command-line tooling for executing structured SQL queries over the SNTL datalake via automated Solana payment rails.
 
