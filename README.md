@@ -38,8 +38,19 @@ Deployment
 
 Bash
 ---
+
+
 mkdir sntl-oracle 
+
+
 cd sntl-oracle 
+
+
 yarn init -y 
+
+
 yarn add express @solana/web3.js @solana/spl-token
+
+
+
 
