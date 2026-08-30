@@ -28,29 +28,10 @@ Full Nodes: Host the complete 1.5M+ row enriched datalake executing cross-dimens
 Identity Matrix & cNFT Terminals
 Scales network intelligence through a matrix of 96,000 cNFT terminals acting as access points. 
 
-Standard: Strictly Metaplex Bubblegum v1.
+Standard: Strictly Metaplex Bubblegum v1 terminal mutation campaign. 
 
 Treasury: AuBsRDd6aFyBb5HxZyrCT7QcAiuqbk67AwJaCXtywV8q
 
-Mutation Logic: This is a mutation protocol, not v2. 
 
-Deployment 
-
-Bash
----
-
-
-mkdir sntl-oracle 
-
-
-cd sntl-oracle 
-
-
-yarn init -y 
-
-
-yarn add express @solana/web3.js @solana/spl-token
-
-
-
+https://sntl.site/
 
