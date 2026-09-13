@@ -7,7 +7,7 @@
 Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data on the Solana mainnet. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure via the x402 protocol.
 
 System Architecture
-Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints dynamically priced ($0.01 to $100.00 USDC). Payment settlement and execution rails are strictly handled by AgentCash. Bypasses Web2/2.5 wallet friction with no API keys.
+Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints dynamically priced ($100.00 USDC). Bypasses Web2/2.5 wallet friction with no API keys.
 
 Threat Intelligence Engine: Real-time, tiered event processor monitoring the world-state chronicle. Emits alerts for critical network anomalies (e.g., localized RF physics violations)
 
