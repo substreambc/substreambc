@@ -3,6 +3,13 @@
 
 # ⚡ SNTL DePIN Oracle
 
+The goal: a2a payments occur for data sold x402. This is the new and simple build. There are a few links we are still testing and we are retiring the tailscale machine in favor of vercel today. 
+
+
+Super simple A2A x402 Data Endpoints Menu 
+
+ 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af330969-20aa-4806-aeae-592533d37ec6" />
 
 Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data on the Solana mainnet. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure via the x402 protocol.
 
