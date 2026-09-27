@@ -34,12 +34,9 @@ web2 website
 https://sntl.site
 
 
-web3 rail 
-https://pop-os.tail08831d.ts.net 
-
 
 agent-card
 https://pop-os.tail08831d.ts.net/.well-known/agent-card.json 
-
+retiring to be replaced by https://a2a.sntl.site today 
 
 
