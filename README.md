@@ -30,6 +30,10 @@ Standard: Strictly Metaplex Bubblegum v1 terminal mutation campaign.
 
 Treasury: AuBsRDd6aFyBb5HxZyrCT7QcAiuqbk67AwJaCXtywV8q
 
+https://sntl.site/ 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
+
+
 web2 website
 https://sntl.site
 
