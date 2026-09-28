@@ -3,7 +3,7 @@
 
 # ⚡ SNTL DePIN Oracle 
 
-The goal: a2a payments occur for data sold x402. This is the new and simple build. There are a few links we are still testing and we are retiring the tailscale machine in favor of vercel today. 
+A2A payments occur for data sold x402 per call LIMIT 1 GET only. This is the new and most simple build. 
 
 
 Super simple A2A x402 Data Endpoints Menu 
