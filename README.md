@@ -48,9 +48,9 @@ web2 website
 https://sntl.site
 
 
+web3 agent-card
+https://sntl-router.vercel.app today  
 
-agent-card
-https://pop-os.tail08831d.ts.net/.well-known/agent-card.json 
-retiring to be replaced by https://a2a.sntl.site today 
+
 
 
