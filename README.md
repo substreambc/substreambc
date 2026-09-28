@@ -1,7 +1,7 @@
 ![settled via x402](https://img.shields.io/badge/settled_via-x402-E8B04B) ![Solana](https://img.shields.io/badge/Solana-mainnet-14F195) ![protocol A2A](https://img.shields.io/badge/protocol-A2A-3B82F6) ![MCP](https://img.shields.io/badge/MCP-ready-8A63D2) ![first tier free](https://img.shields.io/badge/first_tier-free-46C8A6)
 
 
-# ⚡ SNTL DePIN Oracle
+# ⚡ SNTL DePIN Oracle 
 
 The goal: a2a payments occur for data sold x402. This is the new and simple build. There are a few links we are still testing and we are retiring the tailscale machine in favor of vercel today. 
 
@@ -36,10 +36,6 @@ Threat Intelligence Engine: Real-time, tiered event processor monitoring the wor
 
 Sybil Resistance Engine: Neutralizes multi-account yield extraction infrastructure by mathematically isolating top Sybil-scored wallets based on anomaly trigger counts.
 
-Standard: Strictly Metaplex Bubblegum v1 terminal mutation campaign. 
-
-Treasury: AuBsRDd6aFyBb5HxZyrCT7QcAiuqbk67AwJaCXtywV8q
-
 https://sntl.site/ 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
@@ -49,7 +45,7 @@ https://sntl.site
 
 
 web3 agent-card
-https://sntl-router.vercel.app today  
+https://sntl-router.vercel.app 
 
 
 
