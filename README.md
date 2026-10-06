@@ -3,21 +3,22 @@
 
 # ⚡ SNTL DePIN Oracle 
 
-A2A payments occur for data sold x402 per call LIMIT 1 GET only. This is the new and most simple build. 
+A2A payments occur in USDC for data sold x402 per call LIMIT 1 GET only. 
+
+Solana, Base, and XRPL implementations are currently available. 
 
 
-Super simple A2A x402 Data Endpoints Menu 
-
-Architecture of trust
+https://a2a.sntl.site
 
 
-The RF-Layer Anchor — we don't just verify signatures; we verify physical existence. Spoofing and Sybil attacks become exponentially more difficult and vastly more expensive.
+The RF-Layer Anchor — we don't just verify signatures; we verify physical existence. Spoofing and Sybil attacks become exponentially more difficult and vastly more expensive for DePIN.
 
 
 The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL IDs carry deep historical gravity.
 
 
-Zero Speculation — minted as a cNFT with royalties: 100. SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset.
+Zero Speculation — minted as a cNFT with royalties: 100% 
+SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset.
 
 
 One-Time Issuance. Zero economic friction for third-party smart contracts to authenticate and positively ID your physical/digital asset.
@@ -36,16 +37,11 @@ Threat Intelligence Engine: Real-time, tiered event processor monitoring the wor
 
 Sybil Resistance Engine: Neutralizes multi-account yield extraction infrastructure by mathematically isolating top Sybil-scored wallets based on anomaly trigger counts.
 
-https://sntl.site/ 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 
-web2 website
-https://sntl.site
-
-
-web3 agent-card
-https://sntl-router.vercel.app 
+agent-card
+https://a2a.sntl.site  
 
 
 
