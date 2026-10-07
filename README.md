@@ -19,6 +19,9 @@ The RF-Layer Anchor — we don't just verify signatures; we verify physical exis
 The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL IDs carry deep historical gravity.
 
 
+https://a2a.sntl.site
+
+
 Zero Speculation — minted as a cNFT with royalties: 100% 
 SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset.
 
