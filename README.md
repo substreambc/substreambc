@@ -4,11 +4,13 @@
 # ⚡ SNTL DePIN Oracle 
 
 A2A payments occur in USDC for data sold x402 per call LIMIT 1 GET only. 
+https://a2a.sntl.site
+
 
 Solana, Base, and XRPL implementations are currently available. 
 
-
-https://a2a.sntl.site
+https://sntl.site 
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 
 The RF-Layer Anchor — we don't just verify signatures; we verify physical existence. Spoofing and Sybil attacks become exponentially more difficult and vastly more expensive for DePIN.
@@ -26,9 +28,6 @@ One-Time Issuance. Zero economic friction for third-party smart contracts to aut
 
 Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL IDs are anchored in Blockchain reality, assure uniqueness, and record the live position within 120ms; full history.
 
-
-https://sntl.site 
- <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data on the Solana mainnet. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure via the x402 protocol.
 
