@@ -25,24 +25,30 @@ One-Time Issuance. Zero economic friction for third-party smart contracts to aut
 
 
 Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL IDs are anchored in Blockchain reality, assure uniqueness, and record the live position within 120ms; full history.
- 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af330969-20aa-4806-aeae-592533d37ec6" />
+
+
+https://sntl.site 
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data on the Solana mainnet. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure via the x402 protocol.
 
 System Architecture
-Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints dynamically priced ($.01 - $999.99 USDC). Bypasses Web2/2.5 wallet friction with no API keys.
+Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints (.05 USDC per record) on Solana, Base, and XRPL. No API keys.
 
 Threat Intelligence Engine: Real-time, tiered event processor monitoring the world-state chronicle. Emits alerts for critical network anomalies (e.g., localized RF physics violations)
 
-Sybil Resistance Engine: Neutralizes multi-account yield extraction infrastructure by mathematically isolating top Sybil-scored wallets based on anomaly trigger counts.
+Neutralizes multi-account yield extraction infrastructure by mathematically isolating top Sybil-scored wallets based on anomaly trigger counts.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af330969-20aa-4806-aeae-592533d37ec6" />
 
 
-agent-card
+
+SNTL agent-card
 https://a2a.sntl.site  
 
+
+slcutpc AT Gmail 
+385-800-0870
 
 
 
