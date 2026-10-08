@@ -4,13 +4,15 @@
 # ⚡ SNTL DePIN Oracle 
 
 A2A payments occur in USDC for data sold x402 per call LIMIT 1 GET only $1 / call. 
-https://a2a.sntl.site
 
 
-https://sntl-router.vercel.app
+Reserved for future use;) https://a2a.sntl.site
 
 
-https://base-router.vercel.app
+USDC on Solana: https://sntl-router.vercel.app
+
+
+USDC on BASE: https://base-router.vercel.app
 
 
 Solana, Base, and XRPL implementations are currently available. 
@@ -25,18 +27,14 @@ The RF-Layer Anchor — we don't just verify signatures; we verify physical exis
 The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL IDs carry deep historical gravity.
 
 
-https://a2a.sntl.site
-
-
-Zero Speculation — minted as a cNFT with royalties: 100% 
-SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset.
+cNFTs: 96K Mutable=true Zero Speculation — minted as a cNFT with royalties: 100% 
+SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset. Price $999 complete with /attestation of spatiotemporal fingerprint for device, package/item, or entity. 
 
 
 One-Time Issuance. Zero economic friction for third-party smart contracts to authenticate and positively ID your physical/digital asset.
 
 
 Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL IDs are anchored in Blockchain reality, assure uniqueness, and record the live position within 120ms; full history.
-
 
 Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data on the Solana mainnet. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure via the x402 protocol.
 
@@ -50,13 +48,12 @@ Neutralizes multi-account yield extraction infrastructure by mathematically isol
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af330969-20aa-4806-aeae-592533d37ec6" />
 
 
-
 SNTL agent-card
 https://a2a.sntl.site  
 
 
-slcutpc AT Gmail 
-385-800-0870
+email: slcutpc@gmail.com 
+text: 385-800-0870
 
 
 
