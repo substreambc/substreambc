@@ -7,6 +7,12 @@ A2A payments occur in USDC for data sold x402 per call LIMIT 1 GET only.
 https://a2a.sntl.site
 
 
+https://sntl-router.vercel.app
+
+
+https://base-router.vercel.app
+
+
 Solana, Base, and XRPL implementations are currently available. 
 
 https://sntl.site 
