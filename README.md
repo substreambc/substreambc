@@ -36,7 +36,7 @@ Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no
 Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data on the Solana mainnet. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure via the x402 protocol.
 
 System Architecture
-Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints (.05 USDC per record) on Solana, Base, and XRPL. No API keys.
+Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints ($1 USDC per record) on Solana, Base, and XRPL. No API keys.
 
 Threat Intelligence Engine: Real-time, tiered event processor monitoring the world-state chronicle. Emits alerts for critical network anomalies (e.g., localized RF physics violations)
 
