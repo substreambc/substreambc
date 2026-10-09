@@ -3,7 +3,7 @@
 
 # ⚡ SNTL DePIN Oracle 
 
-A2A payments occur in USDC for data sold x402 per call LIMIT 1 GET only $1 / call. 
+A2A payments occur in USDC for data sold x402 per call LIMIT 1 GET only ($1 / call). 
 
 
 USDC on Solana: https://sntl-router.vercel.app
