@@ -48,12 +48,21 @@ Neutralizes multi-account yield extraction infrastructure by mathematically isol
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af330969-20aa-4806-aeae-592533d37ec6" />
 
 
-SNTL agent-card
-https://a2a.sntl.site  
+SNTL agent-card.json
+=======
+
+
+https://sntl-router.vercel.app SOLANA x402
+
+
+https://base-router.vercel.app BASE x402
 
 
 email: slcutpc@gmail.com 
+
+
 text: 385-800-0870
+
 
 
 
