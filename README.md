@@ -12,7 +12,7 @@ USDC on Solana: https://sntl-router.vercel.app
 USDC on BASE: https://base-router.vercel.app
 
 
-Solana, Base, and XRPL implementations are currently available. 
+Solana and BASE x402 implementations are currently available. 
 
 https://sntl.site 
 
