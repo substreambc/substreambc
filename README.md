@@ -56,10 +56,9 @@ https://sntl-router.vercel.app SOLANA x402
 https://base-router.vercel.app BASE x402
 
 
-email: slcutpc@gmail.com 
+support email: slcutpc@gmail.com 
 
 
-text: 385-800-0870
 
 
 
