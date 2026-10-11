@@ -3,55 +3,46 @@
 
 # ⚡ SNTL DePIN Oracle 
 
-A2A payments occur in USDC for data sold x402 per call LIMIT 1 GET only ($1 / call). 
+
+Down for maintenance. 
 
 
-USDC on Solana: https://sntl-router.vercel.app
+Errors expected: 402 A2A Coinbase CDP Google A2A MCPs will likely be the easiest but not the only access points in the future. 
 
 
-USDC on BASE: https://base-router.vercel.app
+Errors expected: 503 Paused - Maintenance
 
 
-Solana and BASE x402 implementations are currently available. 
+Solana and BASE x402 implementations in maintenance and may NOT be available temporarily. 
+
+
+
+
+When the service is available and billable you will get a 402 error: This is NOT actually an error it is the PROTOCOL that requests a receipt from your agent to confirm you have paid for a record.
+
+
+A build into the Coinbase CDP and Google A2A infrastructure. 
+
 
 https://sntl.site 
 
  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 
-RF physical precision makes spoofing and sybil attacks exponentially more difficult and prohibitively expensive on DePIN. 
+SNTL precision makes spoofing and sybil attacks exponentially more difficult and prohibitively expensive on DePIN. 
 
 
-The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL IDs carry deep historical gravity.
+The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL-IDs carry deep historical gravity.
+
+SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset. Price: $999 one-time issuance: Zero economic friction for third-party smart contracts A2A to authenticate and positively SNTL-ID each other for a safe transaction.
 
 
-cNFTs: 96K minted
-SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset. Price: $999 complete with /attestation of spatiotemporal fingerprint. One-time Issuance: Zero economic friction for third-party smart contracts to authenticate and positively ID your physical/digital asset.
+Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL-IDs are anchored in blockchain reality, assure uniqueness and authenticity.
+
+Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure. SNTL aims to minimize yield loss across networks. 
 
 
-Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL IDs are anchored in Blockchain reality, assure uniqueness, and record the live position within 120ms.
-
-Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure data $1 / call via the x402 protocol.
-
-System Architecture
-Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints ($1 USDC per record) on Solana and Base rails. 
-No API keys are needed.
-
-Threat Intelligence Engine: Real-time, tiered event processor monitoring the world-state chronicle. Emits alerts for critical network anomalies (e.g., localized RF physics violations)
-
-Neutralizes multi-account yield extraction infrastructure by mathematically isolating top sybil-scored wallets based on anomaly trigger counts.
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af330969-20aa-4806-aeae-592533d37ec6" />
-
-
-SNTL https://sntl-router.vercel.app/.well-known/agent-card.json 
-=======
-
-
-https://sntl-router.vercel.app SOLANA x402
-
-
-https://base-router.vercel.app BASE x402
+Minimizes multi-account yield extraction infrastructure by mathematically isolating top sybil-scored wallets based on anomaly trigger counts.
 
 
 support email: slcutpc@gmail.com 
