@@ -25,19 +25,20 @@ RF physical precision make spoofing and sybil attacks exponentially more difficu
 The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL IDs carry deep historical gravity.
 
 
-cNFTs: 96K minted.  
+cNFTs: 96K minted
 SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset. Price $999 complete with /attestation of spatiotemporal fingerprint.  
 
 
 One-time Issuance: Zero economic friction for third-party smart contracts to authenticate and positively ID your physical/digital asset.
 
 
-Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL IDs are anchored in Blockchain reality, assure uniqueness, and record the live position within 120ms; full history.
+Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL IDs are anchored in Blockchain reality, assure uniqueness, and record the live position within 120ms.
 
 Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure data $1 / call via the x402 protocol.
 
 System Architecture
-Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints ($1 USDC per record) on Solana and Base rails. No API keys are needed.
+Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints ($1 USDC per record) on Solana and Base rails. 
+No API keys are needed.
 
 Threat Intelligence Engine: Real-time, tiered event processor monitoring the world-state chronicle. Emits alerts for critical network anomalies (e.g., localized RF physics violations)
 
