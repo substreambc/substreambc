@@ -19,17 +19,14 @@ https://sntl.site
  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 
-RF physical precision make spoofing and sybil attacks exponentially more difficult and prohibitively expensive on DePIN. 
+RF physical precision makes spoofing and sybil attacks exponentially more difficult and prohibitively expensive on DePIN. 
 
 
 The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL IDs carry deep historical gravity.
 
 
 cNFTs: 96K minted
-SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset. Price $999 complete with /attestation of spatiotemporal fingerprint.  
-
-
-One-time Issuance: Zero economic friction for third-party smart contracts to authenticate and positively ID your physical/digital asset.
+SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset. Price: $999 complete with /attestation of spatiotemporal fingerprint. One-time Issuance: Zero economic friction for third-party smart contracts to authenticate and positively ID your physical/digital asset.
 
 
 Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL IDs are anchored in Blockchain reality, assure uniqueness, and record the live position within 120ms.
@@ -47,7 +44,7 @@ Neutralizes multi-account yield extraction infrastructure by mathematically isol
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af330969-20aa-4806-aeae-592533d37ec6" />
 
 
-SNTL agent-card.json
+SNTL https://sntl-router.vercel.app/.well-known/agent-card.json 
 =======
 
 
