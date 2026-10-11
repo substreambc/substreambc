@@ -29,19 +29,19 @@ cNFTs: 96K minted.
 SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset. Price $999 complete with /attestation of spatiotemporal fingerprint.  
 
 
-One-Time Issuance. Zero economic friction for third-party smart contracts to authenticate and positively ID your physical/digital asset.
+One-time Issuance: Zero economic friction for third-party smart contracts to authenticate and positively ID your physical/digital asset.
 
 
 Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL IDs are anchored in Blockchain reality, assure uniqueness, and record the live position within 120ms; full history.
 
-Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data on the Solana mainnet. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure via the x402 protocol.
+Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure data $1 / call via the x402 protocol.
 
 System Architecture
-Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints ($1 USDC per record) on Solana, Base, and XRPL. No API keys.
+Gateway & Protocol Layer: Stateless pay-per-query datalake exposing A2A endpoints ($1 USDC per record) on Solana and Base rails. No API keys are needed.
 
 Threat Intelligence Engine: Real-time, tiered event processor monitoring the world-state chronicle. Emits alerts for critical network anomalies (e.g., localized RF physics violations)
 
-Neutralizes multi-account yield extraction infrastructure by mathematically isolating top Sybil-scored wallets based on anomaly trigger counts.
+Neutralizes multi-account yield extraction infrastructure by mathematically isolating top sybil-scored wallets based on anomaly trigger counts.
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af330969-20aa-4806-aeae-592533d37ec6" />
 
