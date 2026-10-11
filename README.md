@@ -19,7 +19,7 @@ https://sntl.site
  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 
-RF physical precision. Spoofing and sybil attacks become exponentially more difficult and prohibitively more expensive on DePIN. 
+RF physical precision make spoofing and sybil attacks exponentially more difficult and prohibitively expensive on DePIN. 
 
 
 The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL IDs carry deep historical gravity.
