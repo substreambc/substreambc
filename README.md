@@ -29,7 +29,7 @@ https://sntl.site
  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 
-SNTL precision makes spoofing and sybil attacks exponentially more difficult and prohibitively expensive on DePIN. 
+SNTL-ID precision makes spoofing and sybil attacks exponentially more difficult and prohibitively expensive on DePIN. 
 
 
 The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL-IDs carry deep historical gravity.
