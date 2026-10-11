@@ -19,14 +19,14 @@ https://sntl.site
  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 
-The RF-Layer Anchor — we don't just verify signatures; we verify physical existence. Spoofing and Sybil attacks become exponentially more difficult and vastly more expensive for DePIN.
+RF physical precision. Spoofing and sybil attacks become exponentially more difficult and prohibitively more expensive on DePIN. 
 
 
 The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL IDs carry deep historical gravity.
 
 
-cNFTs: 96K Mutable=true Zero Speculation — minted as a cNFT with royalties: 100% 
-SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset. Price $999 complete with /attestation of spatiotemporal fingerprint for device, package/item, or entity. 
+cNFTs: 96K minted.  
+SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset. Price $999 complete with /attestation of spatiotemporal fingerprint.  
 
 
 One-Time Issuance. Zero economic friction for third-party smart contracts to authenticate and positively ID your physical/digital asset.
