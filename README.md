@@ -22,4 +22,4 @@ What is our closed ledger dataset A2A/x402? These are 93 settled USDC transactio
 team: slcutpc@gmail.com
 
 
-Web Solutions, LLC (2018)
+Web Solutions, LLC (2018-2026) Updated: October 12th, 2026
