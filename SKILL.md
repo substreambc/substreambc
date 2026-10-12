@@ -12,7 +12,9 @@ Every signature is blockchain-verifiable. Nothing is omitted.
 
 Proofs are offered via email only. A partial recordset is provided on
 request; the rest is negotiated. SNTL Software Architects/Engineers consult
-by email request. The website is https://sntl.site — first tier free.
+by email request. 
+
+The website is https://sntl.site and the pricing for web2 is clear and handled via Stripe and MoonPay. 
 
 There are no API endpoints, no webhooks, and no automated signup.
 The only endpoint is email: slcutpc@gmail.com.
