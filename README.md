@@ -7,17 +7,21 @@
 A project built based on Linux Foundation's custody and backed by Coinbase CDP and Google A2A (Standards) infrastructure.
 
 
-website -> https://sntl.site
-
+website: https://sntl.site
  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 ## SNTL Software Architects/Engineers are consultants.
 
-Our contribution to the A2A/x402 initiative:
+Our efforts and contribution to the A2A/x402 initiative:
 
 
-What is the closed ledger dataset for Solana/BASE? 93 transaction signature proof of successful agent-to-agent settlements, within our own wallets USDC on Solana and Base. This concludes a recordset that shows its own successes and failures. Nothing is omitted as these were largely $.01 USDC tests for R&D of this nature. The industry is new and we are carefully considering our place in it.
+What is our closed ledger dataset A2A/x402? These are 93 settled USDC transactions. Transaction signatures are blockchain verifiable proof of successful agent-to-agent settlements, within our own wallets USDC on Solana and Base. This concludes a recordset that shows its own successes and failures. Nothing is omitted as these 93 tx were largely $.01 USDC tests for R&D of this nature.
+
+
+The industry is new and we are considering our place in it.
 
 
 team: slcutpc@gmail.com
+
+
 Web Solutions, LLC (2018)
