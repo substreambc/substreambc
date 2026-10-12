@@ -8,7 +8,7 @@ Offered via
 
 SNTL is a closed ledger: 93 settled USDC transactions, proof of successful
 agent-to-agent settlements on Solana and Base, within our own wallets.
-Every signature is blockchain-verifiable. Nothing is omitted.
+Every signatures are blockchain-verifiable. 
 
 Proofs are offered via email only. A partial recordset is provided on
 request; the rest is negotiated. SNTL Software Architects/Engineers consult
