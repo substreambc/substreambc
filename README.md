@@ -17,7 +17,7 @@ website: https://sntl.site
 Our efforts and contribution to the A2A/x402 initiative:
 
 
-What is our closed ledger dataset A2A/x402? These are 93 settled USDC transactions. Transaction signatures are blockchain verifiable proof of successful agent-to-agent settlements, within our own wallets USDC on Solana and Base. This concludes a recordset that shows its own successes and failures. These 93 tx USDC A2A/x402 were settled by several facilitators by MCP pattern and style. 
+What is our closed ledger dataset A2A/x402? These are 93 settled USDC transactions. Transaction signatures are blockchain verifiable proof of successful agent-to-agent settlements, within our own wallets USDC on Solana and Base. This concludes a recordset that shows its own successes and failures. These 93 tx USDC A2A/x402 were settled by several facilitators as per custom MCP pattern and style. 
 
 
 
