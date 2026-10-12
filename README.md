@@ -28,20 +28,11 @@ https://sntl.site
  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dbe3bfa-592e-4956-b2f6-9a30dfb1085a" />
 
 
-SNTL-ID precision makes spoofing and sybil attacks exponentially more difficult and prohibitively expensive on DePIN. 
 
 
-The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL-IDs carry deep historical gravity.
 
 
-Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL-IDs are anchored in blockchain reality, assure uniqueness and authenticity.
-
-Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure.
-
-
-Minimizes multi-account yield extraction infrastructure by mathematically isolating top sybil-scored wallets based on anomaly trigger counts.
-
-
+For inquiries
 support email: slcutpc@gmail.com 
 
 
