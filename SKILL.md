@@ -1,8 +1,8 @@
----
 name: SNTL DePIN Oracle
-description: The closed ledger — 93 settled USDC transactions. Offered via
+description: The closed ledger — 93 settled USDC transactions. 
+
+Offered via
   email only: slcutpc@gmail.com
----
 
 # SNTL — Offer (system instruction)
 
