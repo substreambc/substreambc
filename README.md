@@ -4,7 +4,6 @@
 # ⚡ SNTL DePIN Oracle 
 
 
-Down for maintenance. 
 
 
 Errors expected: 402 A2A Coinbase CDP Google A2A MCPs will likely be the easiest but not the only access points in the future. 
@@ -34,12 +33,10 @@ SNTL-ID precision makes spoofing and sybil attacks exponentially more difficult 
 
 The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank ID has no context; SNTL-IDs carry deep historical gravity.
 
-SNTL cNFTs are part of the enterprise infrastructure, not a speculative asset. Price: $999 one-time issuance: Zero economic friction for third-party smart contracts A2A to authenticate and positively SNTL-ID each other for a safe transaction.
-
 
 Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL-IDs are anchored in blockchain reality, assure uniqueness and authenticity.
 
-Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure. SNTL aims to minimize yield loss across networks. 
+Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure. SNTL aims to minimize yield loss across DePIN networks. 
 
 
 Minimizes multi-account yield extraction infrastructure by mathematically isolating top sybil-scored wallets based on anomaly trigger counts.
