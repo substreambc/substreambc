@@ -36,7 +36,7 @@ The World State Chronicle — a massive, AI-enriched telemetry datalake. A blank
 
 Sybil Resistance for DePIN — transient scripts with isolated keypairs carry no weight. SNTL-IDs are anchored in blockchain reality, assure uniqueness and authenticity.
 
-Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure. SNTL aims to minimize yield loss across DePIN networks. 
+Stateless, tactical intelligence layer bridging raw on-chain DePIN telemetry with actionable, AI-enriched data. Provides a deterministic, multi-dimensional datalake designed to secure, analyze, and monetize physical network infrastructure.
 
 
 Minimizes multi-account yield extraction infrastructure by mathematically isolating top sybil-scored wallets based on anomaly trigger counts.
