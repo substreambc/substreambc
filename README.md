@@ -69,8 +69,6 @@ Two checks, ten seconds:
 - From your terminal: `npx agentcash@latest wallet info`
 - From your agent: *"What's my agentcash balance?"*
 
-The numbers must agree. If they don't, you're paying from a wallet you can't see — stop and fix that before anything else. After a purchase, confirm the balance dropped by exactly what the card said it would. Receipts, not vibes.
-
 ## That's the whole op
 
 Install by asking. Get funded on your merits. Point your agent at a card. Verify the numbers. You never touch the plumbing — that's not a shortcut, that's the design.
