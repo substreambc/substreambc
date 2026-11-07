@@ -54,7 +54,7 @@ https://<any-x402-service>/.well-known/agent-card.json
 So don't shop. Hand your agent the card. Say it plainly:
 
 ```
-Read [https://sntl-router.vercel.app/.well-known/agent-card.json](https://pop-os.tail08831d.ts.net/.well-known/agent-card.json) and
+Read https://pop-os.tail08831d.ts.net/.well-known/agent-card.json and
 use agentcash to buy a call against one of its paid endpoints.
 ```
 
